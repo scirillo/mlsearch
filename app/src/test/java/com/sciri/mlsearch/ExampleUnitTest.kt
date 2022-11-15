@@ -1,4 +1,4 @@
-package com.example.testapp
+package com.sciri.mlsearch
 
 import org.junit.Test
 
